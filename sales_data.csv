@@ -1,0 +1,51 @@
+Order_ID,Order_Date,City,Category,Product,Quantity,Unit_Price,Unit_Cost,Revenue,Profit
+ORD001,2025-01-05,Mumbai,Electronics,Laptop,1,65000,5000,65000,60000
+ORD002,2025-01-08,Pune,Furniture,Office Chair,2,8500,1200,17000,14600
+ORD003,2025-01-12,Delhi,Electronics,Headphones,3,2500,600,7500,5700
+ORD004,2025-01-18,Bengaluru,Office Supplies,Notebook,10,120,40,1200,800
+ORD005,2025-01-23,Mumbai,Electronics,Smartphone,2,32000,4500,64000,55000
+ORD006,2025-02-03,Pune,Furniture,Desk,1,12000,2200,12000,9800
+ORD007,2025-02-07,Delhi,Office Supplies,Printer Paper,8,450,100,3600,2800
+ORD008,2025-02-14,Bengaluru,Electronics,Monitor,2,14500,2800,29000,23400
+ORD009,2025-02-21,Mumbai,Furniture,Bookshelf,1,9000,1700,9000,7300
+ORD010,2025-02-27,Delhi,Electronics,Keyboard,5,1800,500,9000,6500
+ORD011,2025-03-04,Pune,Electronics,Laptop,2,65000,5000,130000,120000
+ORD012,2025-03-09,Bengaluru,Furniture,Office Chair,3,8500,1200,25500,21900
+ORD013,2025-03-15,Mumbai,Office Supplies,Notebook,20,120,40,2400,1600
+ORD014,2025-03-22,Delhi,Electronics,Smartphone,1,32000,4500,32000,27500
+ORD015,2025-03-29,Pune,Furniture,Desk,2,12000,2200,24000,19600
+ORD016,2025-04-02,Bengaluru,Office Supplies,Printer Paper,15,450,100,6750,5250
+ORD017,2025-04-10,Mumbai,Electronics,Monitor,3,14500,2800,43500,35100
+ORD018,2025-04-17,Delhi,Furniture,Bookshelf,2,9000,1700,18000,14600
+ORD019,2025-04-24,Pune,Electronics,Keyboard,8,1800,500,14400,10400
+ORD020,2025-04-30,Bengaluru,Electronics,Laptop,1,65000,5000,65000,60000
+ORD021,2025-05-06,Mumbai,Furniture,Office Chair,4,8500,1200,34000,29200
+ORD022,2025-05-13,Delhi,Office Supplies,Notebook,25,120,40,3000,2000
+ORD023,2025-05-19,Pune,Electronics,Smartphone,3,32000,4500,96000,82500
+ORD024,2025-05-25,Bengaluru,Furniture,Desk,2,12000,2200,24000,19600
+ORD025,2025-06-03,Mumbai,Office Supplies,Printer Paper,20,450,100,9000,7000
+ORD026,2025-06-11,Delhi,Electronics,Monitor,4,14500,2800,58000,46800
+ORD027,2025-06-18,Pune,Furniture,Bookshelf,2,9000,1700,18000,14600
+ORD028,2025-06-25,Bengaluru,Electronics,Keyboard,10,1800,500,18000,13000
+ORD029,2025-07-02,Mumbai,Electronics,Laptop,2,65000,5000,130000,120000
+ORD030,2025-07-09,Delhi,Furniture,Office Chair,5,8500,1200,42500,36500
+ORD031,2025-07-16,Pune,Office Supplies,Notebook,30,120,40,3600,2400
+ORD032,2025-07-23,Bengaluru,Electronics,Smartphone,2,32000,4500,64000,55000
+ORD033,2025-08-01,Mumbai,Furniture,Desk,3,12000,2200,36000,29400
+ORD034,2025-08-08,Delhi,Office Supplies,Printer Paper,25,450,100,11250,8750
+ORD035,2025-08-15,Pune,Electronics,Monitor,3,14500,2800,43500,35100
+ORD036,2025-08-22,Bengaluru,Furniture,Bookshelf,3,9000,1700,27000,21900
+ORD037,2025-09-03,Mumbai,Electronics,Keyboard,12,1800,500,21600,15600
+ORD038,2025-09-10,Delhi,Electronics,Laptop,1,65000,5000,65000,60000
+ORD039,2025-09-17,Pune,Furniture,Office Chair,4,8500,1200,34000,29200
+ORD040,2025-09-24,Bengaluru,Office Supplies,Notebook,35,120,40,4200,2800
+ORD041,2025-10-02,Mumbai,Electronics,Smartphone,3,32000,4500,96000,82500
+ORD042,2025-10-09,Delhi,Furniture,Desk,3,12000,2200,36000,29400
+ORD043,2025-10-16,Pune,Office Supplies,Printer Paper,30,450,100,13500,10500
+ORD044,2025-10-23,Bengaluru,Electronics,Monitor,4,14500,2800,58000,46800
+ORD045,2025-11-03,Mumbai,Furniture,Bookshelf,4,9000,1700,36000,29200
+ORD046,2025-11-10,Delhi,Electronics,Keyboard,15,1800,500,27000,19500
+ORD047,2025-11-17,Pune,Electronics,Laptop,2,65000,5000,130000,120000
+ORD048,2025-11-24,Bengaluru,Furniture,Office Chair,5,8500,1200,42500,36500
+ORD049,2025-12-03,Mumbai,Office Supplies,Notebook,40,120,40,4800,3200
+ORD050,2025-12-15,Delhi,Electronics,Smartphone,4,32000,4500,128000,110000
